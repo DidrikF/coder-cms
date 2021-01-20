@@ -35,7 +35,7 @@
     "@reduxjs/toolkit": "^1.1.0",
     "@types/react": "^16.9.17",
     "@types/react-dom": "^16.9.4",
-    "gsap": "^3.0.4",
+    "gsap": "^3.6.0",
     "koa": "^2.11.0",
     "koa-body": "^4.1.1",
     "koa-static": "^5.0.0",
